@@ -1,4 +1,4 @@
-//1. Declare a Customer class with a private variable balance.
+//2. Declare a Customer class with a private variable balance.
 //Implement a public addBalance(double amount) method to add funds.
 //Implement a protected deductBalance(double amount) method to reduce funds.
 //Define a default-access (package-private) method showBalance() to display the current balance.
