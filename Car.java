@@ -9,9 +9,9 @@ class Car{
     private int year;
     
     public Car(String make, String model, int year){  // Parameterized constructor using 'this' to distinguish instance variables
-        this.make = make;
-        this.model = model;
-        this.year = year;
+        this.make=make;
+        this.model=model;
+        this.year=year;
     }
 
     public void displayCarDetails(){      // Method to display car details
