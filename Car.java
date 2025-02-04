@@ -1,3 +1,8 @@
+//4. Define a Car class with attributes make, model, and year.
+//Create a parameterized constructor that uses the this keyword to distinguish constructor parameters from the class fields (e.g., this.make = make;). 
+//Instantiate a Car object with specific values (e.g., "Tesla", "Model 3", 2025) and display its details, ensuring the correct assignment of attributes using this.
+
+
 class Car{
     private String make;
     private String model;
