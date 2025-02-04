@@ -39,7 +39,7 @@ class Customer{
     }
 
     // Default-access method to show balance
-    void showBalance() {
+    void showBalance(){
         System.out.println("Current balance: rs" + balance);
     }
 }
