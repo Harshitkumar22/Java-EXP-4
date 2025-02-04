@@ -20,10 +20,10 @@ class Customer{
 
     
     public void addBalance(int amount){       // Overloaded method to add balance (int)
-        if (amount>0){
+        if(amount>0){
             balance+=amount;
             System.out.println("Added rs: " + amount + " to balance.");
-        } else {
+        }else{
             System.out.println("Invalid deposit amount.");
         }
     }
