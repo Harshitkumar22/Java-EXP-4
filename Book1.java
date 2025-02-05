@@ -1,3 +1,9 @@
+//1. Create a Book class with attributes title and author.
+//Assign default values (e.g., "Untitled", "Unknown Author").
+//Accept user-defined values for title and author.
+//Add another constructor that also includes an integer parameter for publicationYear.
+//Objective: Create multiple Book objects using the different constructors and display their details.
+
 import java.util.Scanner;
 
 class Book{
